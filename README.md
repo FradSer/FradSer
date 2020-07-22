@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fradser)](https://github.com/anuraghazra/github-readme-stats)
+
 A self-taught crafter who eager to learn for advancement. Whether it's coding with a new language, design with any tools whatsoever or building a startup.
 
 Now as a **designer who codes** at ByteDance.
