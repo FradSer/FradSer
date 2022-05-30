@@ -3,9 +3,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=fradser&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 
-A self-taught crafter who eager to learn for advancement. Whether it's coding with a new language, design with any tools whatsoever or building a startup.
+A self-taught craftier who is eager to learn for advancement. Whether it's coding in a new language, design with any tool whatsoever or building a startup.
 
-Now as a **designer who codes** at ByteDance. Building somethine new on ***.
+Now as a **VR/AR designer** at Lark Design Innovations. Building a world-leading virtual workspace.
 
 <!--
 **FradSer/FradSer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
