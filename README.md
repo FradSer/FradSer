@@ -5,7 +5,7 @@
 
 A self-taught craftier who is eager to learn for advancement. Whether it's coding in a new language, design with any tool whatsoever or building a startup.
 
-Now as a **VR/AR designer** at Lark Design Innovations. Building a world-leading virtual workspace.
+Now as a **XR designer** at Lark Design Innovations. Building a world-leading virtual workspace.
 
 <!--
 **FradSer/FradSer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
