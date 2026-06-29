@@ -16,9 +16,13 @@ Now focus on **AI** at RayNeo.
 | [dotclaude](https://github.com/FradSer/dotclaude) | Comprehensive dev environment with specialized AI agents for code review, security analysis, and technical leadership |
 | [mcp-server-mas-sequential-thinking](https://github.com/FradSer/mcp-server-mas-sequential-thinking) | Advanced sequential thinking via Multi-Agent System built with Agno, served via MCP |
 | [mcp-server-apple-events](https://github.com/FradSer/mcp-server-apple-events) | MCP server for native macOS integration with Apple Reminders and Calendar via EventKit |
+| [FluidInterfacesSwiftUI](https://github.com/FradSer/FluidInterfacesSwiftUI) | SwiftUI sample code for Apple's WWDC18 talk "Designing Fluid Interfaces" |
 | [qa-generator](https://github.com/FradSer/qa-generator) | Q&A dataset generator |
+| [30-days-of-shaders](https://github.com/FradSer/30-days-of-shaders) | Yet another 30 days of X challenge — shaders edition |
+| [dotfiles](https://github.com/FradSer/dotfiles) | My dotfiles |
+| [event](https://github.com/FradSer/event) | A pure Swift CLI tool for managing Apple Reminders and Calendar on macOS |
+| [alfred-workflows-collection](https://github.com/FradSer/alfred-workflows-collection) | A collection of Alfred workflows by FradSer |
 | [mcp-server-to-markdown](https://github.com/FradSer/mcp-server-to-markdown) | MCP server to convert web content to Markdown |
 | [frad-me](https://github.com/FradSer/frad-me) | Personal website |
 | [mcp-server-local-web-search](https://github.com/FradSer/mcp-server-local-web-search) | MCP server for local web search |
 | [next-ai-starter](https://github.com/FradSer/next-ai-starter) | Next.js AI starter with Vercel AI SDK v5, shadcn/ui, and OpenAI proxy for China |
-| [mas-tree-of-thought](https://github.com/FradSer/mas-tree-of-thought) | Conceptual exploration of multi-agent decision-making via Tree of Thought |
